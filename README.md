@@ -16,7 +16,7 @@ Simple Steps:
 - Open Makefile and change line 7 from  "space.prg" to your .prg name
 - Open crtr.asm and change lines 21 to 25 with your program info
 - Run make
-- Open the generated file "game.crt" on your favorite simulator to test.
+- Open the generated file "game.crt" on your favorite emulator to test.
 
 To speed up I uploaded all needed binaries (for Windows only, sorry!).
 
