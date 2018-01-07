@@ -21,8 +21,8 @@
 GAME 		= "<Game Name>"
 COPYRIGHT 	= "Copyright (C) <Year> <Author Name>"
 WEBSITE		= "http://<game website>"
-LICENSETYPE	= "License MIT:"
-LICENSEURL  = "<https://opensource.org/licenses/MIT>"
+LICENSETYPE	= "License GPLv2+: GNU GPL ver. 2 or later"
+LICENSEURL  = "<http://gnu.org/licenses/gpl.html>"
 
 		.text "c64 cartridge   "
 		.byte $00,$00		;header length
