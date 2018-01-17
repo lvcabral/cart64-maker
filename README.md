@@ -25,3 +25,4 @@ To speed up I uploaded all needed binaries (for Windows only, sorry!).
 - [Project Kobo64 by Soci/Singular](https://sourceforge.net/projects/kobo64/)
 - [Project 64 Tass by Soci/Singular](https://sourceforge.net/projects/tass64/)
 - [GNU Make by Free Software Foundation](https://www.gnu.org/software/make/)
+- [Exomizer 1.1.5 by Magnus Lind](http://csdb.dk/release/?id=136747)
